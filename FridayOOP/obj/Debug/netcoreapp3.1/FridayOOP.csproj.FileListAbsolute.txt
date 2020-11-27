@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.exe
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.deps.json
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.runtimeconfig.json
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.dll
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\bin\Debug\netcoreapp3.1\FridayOOP.pdb
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.dll
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.pdb
+C:\Users\opilane\source\repos\FridayOOP\FridayOOP\obj\Debug\netcoreapp3.1\FridayOOP.genruntimeconfig.cache

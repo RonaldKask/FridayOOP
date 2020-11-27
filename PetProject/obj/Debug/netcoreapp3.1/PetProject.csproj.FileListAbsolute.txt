@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.exe
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.deps.json
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.runtimeconfig.json
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.dll
+C:\Users\opilane\source\repos\FridayOOP\PetProject\bin\Debug\netcoreapp3.1\PetProject.pdb
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.dll
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.pdb
+C:\Users\opilane\source\repos\FridayOOP\PetProject\obj\Debug\netcoreapp3.1\PetProject.genruntimeconfig.cache
